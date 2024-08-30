@@ -15,4 +15,17 @@
 
 ## How to run?
 
+## Gradle Report
+![gradle report](https://github.com/user-attachments/assets/129db05c-83a3-4392-b543-3581cedb517e)
+
+## Allure Report
+### Overview Section
+![allure report overview](https://github.com/user-attachments/assets/c3036859-8dbd-4cbe-93e7-f14c6ae0da3e)
+
+### Behaviour Section
+![allure report behaviour](https://github.com/user-attachments/assets/b57ad6bf-faee-415f-a8a7-ae1788b2e211)
+
+
+
+
 
