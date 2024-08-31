@@ -11,9 +11,31 @@
 }
 
 ## Prerequisites
+- JDK LTS Version
+- NODEJS LTS Version
+- Android SDK
+- Appium
+- Gradle
+- Allure 
 
+## Preferred IDE
+- Intellij
+
+## Emulator Setup:
+- Setup Android Studio Emulator
 
 ## How to run?
+### Execute the following steps:
+- ``` git clone <repo_url> ```
+- Open CMD
+- Write command ``` npm i appium --global ``` to install appium
+- ``` appium driver list ```
+- ``` appium driver install uiautomator2 ```
+- ``` appium plugin list ```
+- ``` appium plugin install execute-driver ```
+- ``` appium --use-plugins=execute-driver ``` to start the Appium Server
+- Open Terminal of IDE (Intelij)
+- Write command ``` gradle clean test ```
 
 ## Gradle Report
 ![gradle report](https://github.com/user-attachments/assets/129db05c-83a3-4392-b543-3581cedb517e)
